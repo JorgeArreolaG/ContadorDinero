@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal">
+
+    <item android:id="@+id/quienes_somos"
+        android:title="¿Quiénes somos?"/>
+
+    <item android:id="@+id/compartir"
+        android:title="Compartir Aplicación"/>
+
+    <item android:id="@+id/valorar"
+        android:title="Valorar"/>
+
+    <item
+        android:id="@+id/resultado"
+        android:icon="@android:drawable/stat_sys_download"
+        android:title="Descargar"
+        app:showAsAction="ifRoom" />
+
+</menu>

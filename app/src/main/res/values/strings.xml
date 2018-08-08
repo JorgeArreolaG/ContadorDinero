@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Contador Dinero</string>
+    <string name="app_name">Contador de Dinero Mx</string>
+    <string name="quienes">¿Quiénes Somos?</string>
 </resources>

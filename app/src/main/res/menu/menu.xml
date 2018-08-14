@@ -12,16 +12,14 @@
         android:enabled="false"
         android:title="Otras App's" />
 
-    <item android:id="@+id/compartir"
-        android:title="Compartir Aplicación"/>
-
-    <item android:id="@+id/valorar"
-        android:title="Valorar"/>
+    <item
+        android:id="@+id/compartir"
+        android:enabled="false"
+        android:title="Compartir Aplicación" />
 
     <item
-        android:id="@+id/resultado"
-        android:icon="@android:drawable/stat_sys_download"
-        android:title="Descargar"
-        app:showAsAction="ifRoom" />
+        android:id="@+id/valorar"
+        android:enabled="false"
+        android:title="Valorar" />
 
 </menu>

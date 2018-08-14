@@ -22,11 +22,13 @@ public class Principal extends AppCompatActivity {
         final EditText et1000 = (EditText)findViewById(R.id.et1000);
         final EditText et500 = (EditText)findViewById(R.id.et500);
         final EditText et200 = (EditText)findViewById(R.id.et200);
+        EditText et100 = (EditText)findViewById(R.id.et100);
         final EditText etTotal = (EditText)findViewById(R.id.etTotal);
 
         final TextView lbl1000 = (TextView)findViewById(R.id.lbl1000);
         final TextView lbl500 = (TextView)findViewById(R.id.lbl500);
         final TextView lbl200 = (TextView)findViewById(R.id.lbl200);
+
 
 
         //Asignacion de valor por default
